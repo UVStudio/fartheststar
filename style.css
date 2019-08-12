@@ -295,7 +295,7 @@ nav {
 /* contact page */
 
 .contact-section {
-  padding: 35px 0px 40px 0px;
+  padding: 35px 0px 20px 0px;
 }
 
 .contact-info {
@@ -321,8 +321,8 @@ nav {
   font-family: 'Futura-CondensedLight', Helvetica, sans-serif;
   display: inline-block;
   text-align: right;
-  padding: 13px 0px 30px 30px;
-  font-size: 30px;
+  padding: 10px 0px 30px 30px;
+  font-size: 20px;
   letter-spacing: 1.8px;
 }
 
